@@ -38,14 +38,15 @@
 
 ### 🧠 AI/ML & Data Science:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Matplotlib_logo.svg" alt="Matplotlib" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/src/images/plotly_logo_mark.png" alt="Plotly" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" alt="Streamlit" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="![image](https://github.com/user-attachments/assets/2bc1c9de-9db1-4638-bf72-c1572cd6c2d7)
+" alt="Plotly" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" alt="Streamlit" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="60" height="60" style="margin: 10px; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px; padding: 5px;"/>
 </p>
 
 ---
