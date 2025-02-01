@@ -40,7 +40,8 @@
 
 ## 🗄️ Databases:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases"/>
+  <img src="![image](https://github.com/user-attachments/assets/e25048ad-ee20-4181-a2ab-0a7eba317a65)
+" alt="Databases"/>
 </p>
 
 ---
@@ -58,5 +59,5 @@
 
 ## 🌟 Vision:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Rising+Above+Challenges!+🚀;Harnessing+Innovation+to+Transform!+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Rising+Above+Challenges!+Harnessing+Innovation+to+Transform!" />
 </p>
