@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachit Singh</h1>
+<h1 align="center">Hello there 🤖, I'm Rachit Singh</h1>
 <h3 align="center">Driven to explore, visualize, and engineer limitless opportunities in Software Development and Data Science.</h3>
 
 - 📫 How to reach me **rachit.singh2024@gmail.com**
