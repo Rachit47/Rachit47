@@ -43,7 +43,7 @@
   <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="Matplotlib" width="80" height="60" style="margin: 10px; padding: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin: 10px; padding: 10px;"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60" style="margin: 10px; padding: 10px;"/>
-  <img src="https://dash.plotly.com/assets/images/plotly_logo_dark.png" alt="Plotly" width="80" height="60" style="margin: 10px; padding: 10px;"/>
+  <img src="https://dash.plotly.com/assets/images/plotly_logo_dark.png" alt="Plotly" width="90" height="50" style="margin: 10px; padding: 10px;"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" alt="Streamlit" width="60" height="60" style="margin: 10px; padding: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="60" height="60" style="margin: 10px; padding: 10px;"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px; padding: 10px;"/>
@@ -53,7 +53,7 @@
 
 ### 🗄️ Database:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
 </p>
 
 ---
