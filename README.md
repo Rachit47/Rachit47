@@ -38,14 +38,14 @@
 
 ### 🧠 AI/ML & Data Science:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Matplotlib_logo.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
-  <img src="https://plotly.com/_next/static/media/plotly.04934b02.svg" alt="Plotly" width="50" height="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" alt="Streamlit" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Matplotlib_logo.svg" alt="Matplotlib" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/src/images/plotly_logo_mark.png" alt="Plotly" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" alt="Streamlit" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px;"/>
 </p>
 
 ---
