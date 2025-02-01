@@ -3,13 +3,16 @@
 
 <!-- Futuristic Tech GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWllNHJmZWVkZnF0YWc5MWh6Z3Fiam1rM2JqMmY1anR5bGhlbGoxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" height="300" />
 </p>
 
 ---
 
 ## 🌐 Connect with me:
 <p align="center">
+<!--   <a href="https://www.linkedin.com/in/rachit47/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> -->
   <a href="mailto:rachit.singh2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -19,29 +22,33 @@
 
 ## 🚀 Languages:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" alt="Languages"/>
 </p>
 
 ---
 
 ## 📚 Frameworks & Libraries:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,sklearn,pytorch,pandas,seaborn" alt="Frameworks & Libraries"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"/>
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
 </p>
 
 ---
 
 ## 🛠️ Tools & Technologies:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,opencv" alt="Tools & Technologies"/>
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50" height="50"/>
 </p>
 
 ---
 
 ## 🗄️ Databases:
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/e25048ad-ee20-4181-a2ab-0a7eba317a65)
-" alt="Databases"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
 </p>
 
 ---
@@ -57,7 +64,7 @@
 
 ---
 
-## 🌟 Vision:
+## 🌟 Vision & Motivation:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Rising+Above+Challenges!+Harnessing+Innovation+to+Transform!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Rising+Above+Challenges!+;Harnessing+Innovation+to+Transform!" />
 </p>
