@@ -63,7 +63,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&theme=radical" alt="rachit47 GitHub Stats" />
 </p> -->
 
-[![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachit47)](https://github.com/rachit47/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=donut)](https://github.com/rachit47/github-readme-stats)
+
 
 
 ---
