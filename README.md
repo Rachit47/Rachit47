@@ -63,10 +63,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&theme=radical" alt="rachit47 GitHub Stats" />
 </p> -->
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=pie)](https://github.com/rachit47/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rachit47&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachit47&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
