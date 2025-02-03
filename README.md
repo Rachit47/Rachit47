@@ -59,15 +59,13 @@
 
 ## 🔥 GitHub Stats & Streaks:
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&theme=radical" alt="rachit47 GitHub Stats" />
-</p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachit47&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachit47&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 ---
