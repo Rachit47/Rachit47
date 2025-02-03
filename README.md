@@ -62,9 +62,12 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&theme=radical" alt="rachit47 GitHub Stats" />
 </p> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=donut)](https://github.com/rachit47/github-readme-stats)
-
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=pie)](https://github.com/rachit47/github-readme-stats)
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rachit47&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 
 ---
