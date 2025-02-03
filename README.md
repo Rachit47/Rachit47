@@ -63,13 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&theme=radical" alt="rachit47 GitHub Stats" />
 </p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachit47&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachit47&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+[![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachit47)](https://github.com/rachit47/github-readme-stats)
 
 
 ---
