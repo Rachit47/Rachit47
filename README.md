@@ -57,13 +57,12 @@
 
 ---
 
-## 🔥 GitHub Stats & Streaks:
+## 🔥 GitHub Stats:
+
+<a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=rachit47&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachit47&show_icons=true&count_private=true&hide=prs&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
