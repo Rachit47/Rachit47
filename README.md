@@ -17,7 +17,6 @@
   <a href="https://www.linkedin.com/in/rachit-singh-165255248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
 </p>
 
 ---
@@ -38,6 +37,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,tailwind,react" alt="Frontend Development"/>
 </p> 
+
 ---
 
 ### 🧠 AI/ML & Data Science:
