@@ -66,6 +66,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rachit47&color=blue)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
