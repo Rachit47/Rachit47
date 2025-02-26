@@ -66,9 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rachit47&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile Views" />
-</p>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRachit47"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=upper" /></a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
