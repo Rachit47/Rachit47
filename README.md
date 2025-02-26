@@ -66,7 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rachit47&color=blue)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rachit47" alt="Visitor Count" />
+</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
