@@ -66,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRachit47"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=upper" /></a>
+<a align = "center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRachit47"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=upper" /></a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
