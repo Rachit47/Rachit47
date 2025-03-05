@@ -7,6 +7,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21jemV6dXlrNzFiZjM5dzljbXAwM3FyYWd6bDN0eDQyc2x4YXY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif" width="600" height="300" />
 </p>
 ---
+
 ## 🌐 Connect with me:
 <p align="center">
   <a href="mailto:rachit.singh2024@gmail.com">
@@ -17,6 +18,7 @@
   </a>
 </p>
 ---
+
 <div align="center">
   <h3>🚀 Skills & Expertise</h3>
   <p>Explore my proficiency in various domains!</p>
@@ -27,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="Programming Languages"/>
 </p>
 ---
+
 ### 💻 Frontend Development:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,tailwind,react,nextjs" alt="Frontend Development"/>
@@ -45,6 +48,7 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px; padding: 20px;"/>
 </p>
 ---
+
 ### 🗄️ Database:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
