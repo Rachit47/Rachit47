@@ -6,9 +6,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21jemV6dXlrNzFiZjM5dzljbXAwM3FyYWd6bDN0eDQyc2x4YXY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif" width="600" height="300" />
 </p>
-
 ---
-
 ## 🌐 Connect with me:
 <p align="center">
   <a href="mailto:rachit.singh2024@gmail.com">
@@ -18,9 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 <div align="center">
   <h3>🚀 Skills & Expertise</h3>
   <p>Explore my proficiency in various domains!</p>
@@ -30,14 +26,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="Programming Languages"/>
 </p>
-
 ---
-
 ### 💻 Frontend Development:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,tailwind,react" alt="Frontend Development"/>
+  <img src="https://skillicons.dev/icons?i=css,html,tailwind,react,nextjs" alt="Frontend Development"/>
 </p> 
-
 ---
 
 ### 🧠 AI/ML & Data Science:
@@ -51,14 +44,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="60" height="60" style="margin: 10px; padding: 20px;"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px; padding: 20px;"/>
 </p>
-
 ---
-
 ### 🗄️ Database:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Stats:
@@ -67,9 +57,7 @@
 </p>
 
 <a align = "center" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRachit47"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=upper" /></a>
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Rising+Above+Challenges!;Harnessing+Innovation+to+Transform!" />
 </p>
