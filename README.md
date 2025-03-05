@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21jemV6dXlrNzFiZjM5dzljbXAwM3FyYWd6bDN0eDQyc2x4YXY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdtB8TtizElk0OrRGR/giphy.gif" width="600" height="300" />
 </p>
+
 ---
 
 ## 🌐 Connect with me:
@@ -17,6 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 <div align="center">
@@ -28,12 +30,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="Programming Languages"/>
 </p>
+
 ---
 
 ### 💻 Frontend Development:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,tailwind,react,nextjs" alt="Frontend Development"/>
 </p> 
+
 ---
 
 ### 🧠 AI/ML & Data Science:
@@ -47,12 +51,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="60" height="60" style="margin: 10px; padding: 20px;"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="60" height="60" style="margin: 10px; padding: 20px;"/>
 </p>
+
 ---
 
 ### 🗄️ Database:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
 </p>
+
 ---
 
 ## 🔥 GitHub Stats:
