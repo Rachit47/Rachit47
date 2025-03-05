@@ -56,9 +56,10 @@
 
 ---
 
-### 🗄️ Database:
+### 🗄️ Database & ORMs:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" style="margin: 10px; padding: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="80" height="80" style="margin: 10px; padding: 20px;"/>
 </p>
 
 ---
