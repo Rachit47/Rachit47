@@ -26,6 +26,8 @@
   <p>Explore my proficiency in various domains!</p>
 </div>
 
+---
+
 ### 🔧 Programming Languages:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="Programming Languages"/>
