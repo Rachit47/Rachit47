@@ -30,7 +30,7 @@
 
 ### 🔧 Programming Languages:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,java" alt="Programming Languages"/>
 </p>
 
 ---
