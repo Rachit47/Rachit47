@@ -37,7 +37,7 @@
 
 ### 💻 Frontend Development:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,tailwind,react,nextjs" alt="Frontend Development"/>
+  <img src="https://skillicons.dev/icons?i=css,html,tailwind,react" alt="Frontend Development"/>
 </p> 
 
 ---
