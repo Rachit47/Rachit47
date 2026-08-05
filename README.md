@@ -121,13 +121,15 @@ MySQL • Git • GitHub • Jenkins • VS Code
 <p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit47&layout=donut&theme=radical&hide_border=true&langs_count=6&hide=html,css"
-height="220"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rachit47&layout=donut&theme=radical&hide_border=true&langs_count=6&exclude_repo=portfolio"
 />
+
+</p>
+
+<p align="center">
 
 <img 
 src="https://komarev.com/ghpvc/?username=Rachit47&label=Profile%20Views&color=blueviolet&style=for-the-badge"
-height="220"
 />
 
 </p>
