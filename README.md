@@ -104,14 +104,14 @@ Python • TensorFlow • PyTorch • Pandas • Scikit-Learn • Streamlit
 
 <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 <img src="https://skillicons.dev/icons?i=git" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Subversion_logo.svg" width="60"/>
 <img src="https://skillicons.dev/icons?i=jenkins" width="60"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
 
 </p>
 
 <p align="center">
-MySQL • Git • GitHub • Jenkins • VS Code
+MySQL • Git • Subversion • Jenkins • VS Code
 </p>
 
 ---
