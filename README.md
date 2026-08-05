@@ -111,7 +111,7 @@ Python • TensorFlow • PyTorch • Pandas • Scikit-Learn • Streamlit
 </p>
 
 <p align="center">
-MySQL • Git • Subversion • Jenkins • VS Code
+MySQL  • Git •  Subversion •  Jenkins •  VS Code
 </p>
 
 ---
