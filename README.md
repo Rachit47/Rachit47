@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 🤖, I'm Rachit Singh</h1>
 
-<h3 align="center">
-Driven to explore, visualize, and engineer limitless opportunities in Software Development and AI.
-</h3>
+<h3 align="center">Driven to explore, visualize, and engineer limitless opportunities in Software Development and AI.</h3>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Raleway:wght@400;700&display=swap" rel="stylesheet">
 
@@ -13,11 +11,11 @@ Driven to explore, visualize, and engineer limitless opportunities in Software D
 ---
 
 <h2 align="center">
-<img src="https://www.svgrepo.com/show/353657/connect.svg" width="28"/>
- Connect with me
+🌐 Connect with me
 </h2>
 
 <p align="center">
+
 <a href="mailto:rachit.singh020105@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -26,24 +24,13 @@ Driven to explore, visualize, and engineer limitless opportunities in Software D
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Rachit47">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/rachit2002/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 </p>
-
 
 ---
 
 <div align="center">
 
-<h2>
-<img src="https://www.svgrepo.com/show/354202/code.svg" width="30"/>
- Skills & Expertise
-</h2>
+<h2>🚀 Skills & Expertise</h2>
 
 <p>
 Backend engineering, scalable APIs, AI applications, and full-stack development.
@@ -51,47 +38,41 @@ Backend engineering, scalable APIs, AI applications, and full-stack development.
 
 </div>
 
-
 ---
 
 ## ⚙️ Backend Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,docker,postman" />
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+<img src="https://skillicons.dev/icons?i=spring" width="60"/>
+<img src="https://skillicons.dev/icons?i=redis" width="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=postman" width="60"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="55"/>
-<img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-
+Java • Spring Boot • REST APIs • Redis • MySQL • Apache Solr • JUnit • Postman
 </p>
-
-
-**Technologies:**
-- Java
-- Spring Boot
-- Spring Framework
-- REST APIs
-- Redis Caching
-- Apache Solr
-- MySQL
-- JUnit
-- Postman
-- Git
-
 
 ---
 
 ## 💻 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=html" width="60"/>
+<img src="https://skillicons.dev/icons?i=css" width="60"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="60"/>
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
+
 </p>
 
+<p align="center">
+HTML • CSS • JavaScript • React
+</p>
 
 ---
 
@@ -99,48 +80,73 @@ Backend engineering, scalable APIs, AI applications, and full-stack development.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
 
-<img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" width="55"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-dark.svg" width="60"/>
 
 </p>
 
-
-**Libraries & Tools:**
-- Python
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Pandas
-- Streamlit
-- OpenCV
-
+<p align="center">
+Python • TensorFlow • PyTorch • Pandas • Scikit-Learn • Streamlit
+</p>
 
 ---
 
-## 🗄️ Database & Storage
+## 🗄️ Database & Developer Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,redis"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://skillicons.dev/icons?i=git" width="60"/>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
 
 </p>
 
+<p align="center">
+MySQL • Git • GitHub • Jenkins • VS Code
+</p>
 
 ---
 
-## 🛠️ Developer Tools
+# 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+### 🔹 HelioDash - Admin Dashboard Web App
 
-</p>
+Real-time admin dashboard with analytics for users, orders, products, and revenue using Firebase and interactive charts.
 
+<a href="https://helio-dash-admin.vercel.app/">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+
+### 🔹 AI Powered Driving Game
+
+AI-based vehicle navigation system using neural networks and sensor inputs for real-time decision making.
+
+<a href="https://traffic-run-wine.vercel.app/">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+
+### 🔹 Breast Cancer Diagnosis Tool
+
+Machine learning application using Logistic Regression for breast cancer prediction deployed with Streamlit.
+
+<a href="https://smartcancerscan.streamlit.app/">
+<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
@@ -148,29 +154,21 @@ Backend engineering, scalable APIs, AI applications, and full-stack development.
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=rachit47&show_icons=true&theme=radical&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rachit47&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
 
 </p>
 
-
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit47&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=old-project-name"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit47&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 
 </p>
 
+---
 
 <p align="center">
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRachit47">
-
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Total%20Visits&countColor=%2337d67a&style=flat-square&labelStyle=upper"/>
-
-</a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Profile%20Views&countColor=%2337d67a&style=flat-square"/>
 
 </p>
 
