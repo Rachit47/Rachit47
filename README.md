@@ -116,37 +116,7 @@ MySQL • Git • GitHub • Jenkins • VS Code
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-### 🔹 HelioDash - Admin Dashboard Web App
-
-Real-time admin dashboard with analytics for users, orders, products, and revenue using Firebase and interactive charts.
-
-<a href="https://helio-dash-admin.vercel.app/">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
-</a>
-
-
-### 🔹 AI Powered Driving Game
-
-AI-based vehicle navigation system using neural networks and sensor inputs for real-time decision making.
-
-<a href="https://traffic-run-wine.vercel.app/">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
-</a>
-
-
-### 🔹 Breast Cancer Diagnosis Tool
-
-Machine learning application using Logistic Regression for breast cancer prediction deployed with Streamlit.
-
-<a href="https://smartcancerscan.streamlit.app/">
-<img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge"/>
-</a>
-
-</div>
+# 📊 GitHub Statistics
 
 ---
 
@@ -154,24 +124,25 @@ Machine learning application using Logistic Regression for breast cancer predict
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rachit47&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rachit47&theme=radical"/>
 
 </p>
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit47&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rachit47&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rachit47&theme=radical"/>
 
 </p>
 
----
 
 <p align="center">
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRachit47&label=Profile%20Views&countColor=%2337d67a&style=flat-square"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit47&theme=radical&hide_border=true"/>
 
 </p>
-
 
 ---
 
