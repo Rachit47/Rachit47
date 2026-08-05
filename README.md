@@ -104,7 +104,7 @@ Python • TensorFlow • PyTorch • Pandas • Scikit-Learn • Streamlit
 
 <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 <img src="https://skillicons.dev/icons?i=git" width="60"/>
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" width="60"/>
 <img src="https://skillicons.dev/icons?i=jenkins" width="60"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
 
