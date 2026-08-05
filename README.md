@@ -115,19 +115,23 @@ MySQL • Git • GitHub • Jenkins • VS Code
 </p>
 
 ---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Rachit47&theme=radical"/>
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit47&layout=donut&theme=radical&hide_border=true&langs_count=6&hide=html,css"
+height="220"
+/>
+
+<img 
+src="https://komarev.com/ghpvc/?username=Rachit47&label=Profile%20Views&color=blueviolet&style=for-the-badge"
+height="220"
+/>
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rachit47&theme=radical&hide_border=true"/>
-
-</p>
 ---
 
 <p align="center">
