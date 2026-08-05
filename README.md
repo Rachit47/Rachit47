@@ -115,24 +115,19 @@ MySQL • Git • GitHub • Jenkins • VS Code
 </p>
 
 ---
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rachit47&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Rachit47&theme=radical"/>
 
 </p>
-
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Rachit47&theme=radical&hide_border=true"/>
 
 </p>
-
----
 ---
 
 <p align="center">
