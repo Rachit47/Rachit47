@@ -120,9 +120,9 @@ MySQL • Git • GitHub • Jenkins • VS Code
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rachit47&layout=donut&theme=radical&hide_border=true&langs_count=6&exclude_repo=portfolio"
-/>
+<p align="center">
+<img src="https://github-contribution-stats.vercel.app/api/?username=Rachit47&theme=dark" />
+</p>
 
 </p>
 
